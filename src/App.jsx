@@ -28,7 +28,7 @@ function App() {
       <div className='w-full block content-between text-yellow-100'>
         <Header />
         <main>
-          {/* <Outlet /> */}
+          <Outlet />
         </main>
         <Footer />
       </div>
