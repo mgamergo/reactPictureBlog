@@ -6,7 +6,7 @@ import icons from "../../assets/index";
 function Footer() {
   return (
     <section>
-      <div className="w-full h-fit grid grid-cols-[60%_1fr_1fr] gap-4 py-6 border-t-8 border-accent-red">
+      <div className="w-full h-fit grid grid-cols-[60%_1fr_1fr] gap-4 py-6 border-t border-accent-red">
         <div className="pl-20">
           <div>
             <div className="px-6 flex items-center gap-6">
